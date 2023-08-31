@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<contentList date="31/08/2023 12:00">
-  <content contentuid="6d8057f7-14d4-4c4c-a89a-8e522b6b971f" version="1">Regenerate health while standing in grease, oil, or fire.</content>
-  <content contentuid="e8846da9-7f88-445b-b9c5-405aeaed1bb9" version="1">Fiery Regeneration</content>
-  <content contentuid="a684e181-0b64-4ae3-82a3-01ecfd927902" version="1">%%%  |Ignited Surface Technical|</content>
-  <content contentuid="1aa2cc3e-eac9-4346-9ebb-55e9f67e6269" version="1">%%%  |Ignited Surface Starter|</content>
-  <content contentuid="32ae9797-5769-4a5f-9950-04e2286276ff" version="1">You are immune to Burning.</content>
-  <content contentuid="c0082ece-34a0-486e-8e3e-7a42ba3e2bf5" version="1">Burnproof</content>
-  <content contentuid="5cf0a21c-bbd3-45e0-9f79-5a0ad771c109" version="1">If you are standing in grease, oil, or fire, you heal [1].</content>
-  <content contentuid="58ddb971-1fb9-4978-b519-e44805ff2343" version="1">Fiery Rejuvination</content>
-  <content contentuid="ec13f9e9-7b17-465e-9d9f-593cf3f1d4f4" version="1">If you stand in grease or oil during combat, it will ignite.</content>
-  <content contentuid="133ff8ec-3011-4b48-86c8-b119ceca7c02" version="1">Ignite Flammable Surface</content>
-  <content contentuid="f1236104-4483-49b5-a1a6-0222525e7fac" version="1">Regenerate health while standing in water or ice.</content>
-  <content contentuid="1067d24c-b0bc-43db-82e0-ccde114c14bd" version="1">Icy Regeneration</content>
-  <content contentuid="3668e6d5-ee82-4878-8d49-6296819b0b13" version="1">%%%  |Frozen Surface Technical|</content>
-  <content contentuid="caf423e1-0e23-411e-a4a1-3efc751cd79a" version="1">%%%  |Frozen Surface Starter|</content>
-  <content contentuid="388c5198-5f30-42a5-ab1d-09a75b8d15c6" version="1">You are immune to Difficult Terrain and Prone.</content>
-  <content contentuid="ed9befb6-1182-40d4-ace1-ac59c1087f3b" version="1">Surefooted</content>
-  <content contentuid="91f83b7c-613b-406a-b38b-3e2f7e7fd2c3" version="1">If you are standing in water or ice, you heal [1].</content>
-  <content contentuid="e7e1358f-bb1f-4b85-a127-e42a7ae486bd" version="1">Icy Rejuvination</content>
-  <content contentuid="dcd47e9b-7594-45ad-9d99-d687274a1bc6" version="1">If you stand in water during combat, it becomes frozen.</content>
-  <content contentuid="e0efa8e2-38a4-4aeb-b87e-d41925d9276e" version="1">Freeze Water Surface</content>
-  <content contentuid="a6e17d29-437f-4867-a152-008beb5b5279" version="1">Regenerate health while standing in water or an electrified surface.</content>
-  <content contentuid="a001f5f5-5440-4213-b7a2-cd9a894d7644" version="1">Electrified Regeneration</content>
-  <content contentuid="4bc79775-f59c-45c0-85a8-9201644bcef2" version="1">%%%  |Electrified Surface Technical|</content>
-  <content contentuid="9ac555be-e7b9-46c1-b947-50237feca1cb" version="1">%%%  |Electrified Surface Starter|</content>
-  <content contentuid="74c9ba43-a3a8-4023-8465-7770a776a0eb" version="1">You are immune to Shock.</content>
-  <content contentuid="0405b36a-9133-4c31-b39c-f62cc620cf9e" version="1">Shockproof</content>
-  <content contentuid="32d1f25c-adbd-4a73-ab7d-449a9002aa93" version="1">If you are standing in water or an electrified surface, you heal [1].</content>
-  <content contentuid="7ffb3e17-a758-4d0d-a80a-0ccfeb141e07" version="1">Electrified Rejuvination</content>
-  <content contentuid="55887318-b809-4624-97c5-2484e9fdc5c2" version="1">If you stand in water during combat, it becomes electrified.</content>
-  <content contentuid="a41a7dba-5eb1-4abb-bb39-aa79f5dd4298" version="1">Electrify Water Surface</content>
-  <content contentuid="9e067648-0c0a-4842-8819-a546e580f384" version="1">You learn the spell Grease. You are immune to Burning. If you stand in grease, oil, or fire, you heal [1]. If you stand in grease, oil, or fire during combat, it ignites.</content>
-  <content contentuid="9de03be6-0e68-477b-94be-f27ce8a5494b" version="1">Firewalker</content>
-  <content contentuid="f45598c4-823e-400f-97ac-b1215a7211a4" version="1">You learn the spell Create or Destroy Water. You are immune to Difficult Terrain and Prone. If you stand in ice or water, you heal [1]. If you stand in water during combat, it becomes frozen.</content>
-  <content contentuid="2dc134a8-9511-4b5b-a058-6cafe6a8a1ab" version="1">Icewalker</content>
-  <content contentuid="b10951be-293d-4f02-a121-4d5342b37a1e" version="1">You learn the spell Create or Destroy Water. You are immune to Shock. If you stand in water or electrified water, you heal [1]. If you stand in water during combat, it becomes electrified.</content>
-  <content contentuid="14f0b8da-5829-4f80-82d2-49a6273de5ab" version="1">Lightningwalker</content>
+<contentList date="12/08/2023 13:30">
   <content contentuid="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1">Potion of Utility Spells</content>
-  <content contentuid="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1">A special potion that grants toggleable passives that allow the user to ignite, freeze, or electrify surfaces, makes you invulnerable to most statuses, gives you dialogue tags (detect thoughts and pet pal), and grants you a number of utility spells such a Fly or Speak With Dead.</content>
+  <content contentuid="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1">A special potion that grants utility spells as toggleable passives.</content>
   <content contentuid="h98d31668gb649g4946gb325g2f6ac8b1af8f" version="1">Invulnerable</content>
   <content contentuid="h75fa5df5g7165g48cdg8a48g8bbd0f20d21f" version="1">The tumultuous elemental forces never threaten you. You are invulnerable.</content>
   <content contentuid="h40909210ga076g4defgbe6dgd9513d6ba725" version="1">Elemental Affinity</content>
