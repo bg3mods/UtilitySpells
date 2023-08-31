@@ -1,0 +1,8 @@
+new entry "UTSP_Utilities_Container"
+type "SpellData"
+data "SpellType" "Shout"
+data "ContainerSpells" "Target_SpeakWithDead;UTSP_Shout_Fly;UTSP_Shout_Haste;UTSP_Shout_SeeInvisibility;UTSP_Shout_Vanish"
+data "Icon" "Spell_Transmutation_EnhanceAbility"
+data "DisplayName" "hff7f1ca6gfbdfg47c6g8872g097c868b7eac;1"
+data "Description" "h671f843fg4a1bg4443gbe6fg565fd56feee8;1"
+data "SpellFlags" "IsLinkedSpellContainer"
