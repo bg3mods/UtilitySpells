@@ -5,17 +5,17 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="5e06ef0e-dfd3-456e-ac23-07df7ac884c7" />
+					<attribute id="maxStackAmount" type="int32" value="1" />
 					<attribute id="Name" type="LSString" value="UTSP_OBJ_UtilitySpells" />
 					<attribute id="ParentTemplateId" type="FixedString" value="277257bc-38f5-4c51-be13-32498e8cbd3d" />
-					<attribute id="VisualTemplate" type="FixedString" value="5d563d0d-c62d-4e6f-9457-0a61dfb08225" />
 					<attribute id="ReadinessFlags" type="uint32" value="8" />
 					<attribute id="Stats" type="FixedString" value="UTSP_OBJ_UtilitySpells" />
-					<attribute id="maxStackAmount" type="int32" value="1" />
 					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="5d563d0d-c62d-4e6f-9457-0a61dfb08225" />
 					<children>
 						<node id="Bounds">
 							<children>

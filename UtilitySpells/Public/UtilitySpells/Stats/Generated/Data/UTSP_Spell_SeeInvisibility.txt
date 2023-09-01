@@ -36,7 +36,7 @@ data "StackId" "UTSP_SEE_INVISIBILITY"
 data "AuraRadius" "9"
 data "AuraStatuses" "TARGET:IF(not HasAnyStatus({'SG_Unconscious','SG_Incapacitated','SG_Blinded'},{},{},context.Source) and not Ally() and HasStatus('SG_Invisible')):ApplyStatus(UTSP_SEE_INVISIBILITY_SEEN)"
 data "AuraFlags" "CanAffectInvisibleItems;AIIgnoreOnSelf"
-data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('UTSP_SEE_INVISIBILITY')):ApplyStatus(AI_HELPER_SEEINVISIBILITY,100,3)"
+data "OnApplyFunctors" ""
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "d8452a11-7c66-45fb-8ccb-64e2fa56ada5"
 

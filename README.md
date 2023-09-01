@@ -12,18 +12,20 @@ You can call the Powershell script from your terminal, as long as you added your
 
 Spell list:
 
-- [] Create surfaces: fire | ice | lightning | light | darkness
+- [x] Create surfaces: fire | ice | lightning | light | darkness
 - [] Remove surfaces: fire | ice | lightning | light | darkness
-- [] Vanish (unlimited Greater Invisibility)
-- [] Fly (unlimited)
-- [] Speak with Dead (remove the limit on the number of questions you can ask)
-- [] Gust of Wind
+- [x] Gust of Wind (unlimited)
+- [x] Vanish (unlimited Greater Invisibility)
+- [x] Fly (unlimited)
+- [x] Speak with Dead (remove the limit on the number of questions you can ask)
+- [] Shapeshift (unlimited)
+- [] False Education (unlimited)
 
 Passive list:
 
 - [] See invisibility (check if we can make it a passive, otherwise spell)
-- [] Immunity : fire | ice | lightning | light | darkness
-- [] Immunity : status difficult terrain | prone | blind | frightened | ...
+- [x] Immunity : fire | ice | lightning | light | darkness
+- [x] Immunity : status difficult terrain | prone | blind | frightened | ...
 - [] Feats: heavy armour | medium armour | weapons proficiencies
 - [] Tags: dialogue detect thoughts | pet pal | tiny
 
@@ -31,3 +33,8 @@ Optionnal:
 
 - [] Stats: all stats to 30
 - [] Give gold
+
+TODO:
+
+- [] Add detect thoughts, pet pal, etc.
+- [] Add a remove spell for flight, invisibility, etc.

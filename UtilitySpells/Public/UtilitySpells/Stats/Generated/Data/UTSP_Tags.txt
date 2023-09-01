@@ -1,0 +1,8 @@
+new entry "UTSP_Tags"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h662cf3b9g3504g483agadbegf6f92e6732c9;1"
+data "Description" "h546dad0cgfcaeg474bg8ee7g7f1a725c1f51;2"
+data "Icon" "Spell_Divination_ComprehendLanguages"
+data "StackId" "COMPREHEND_LANGUAGES"
+data "Boosts" "Tag(COMPREHEND_LANGUAGES);Tag(DETECTTHOUGHTS);Tag(PETPAL);"

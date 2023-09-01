@@ -4,6 +4,10 @@
   <content contentuid="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1">A special potion that grants utility spells as toggleable passives.</content>
   <content contentuid="h98d31668gb649g4946gb325g2f6ac8b1af8f" version="1">Invulnerable</content>
   <content contentuid="h75fa5df5g7165g48cdg8a48g8bbd0f20d21f" version="1">The tumultuous elemental forces never threaten you. You are invulnerable.</content>
+  <content contentuid="h671c14b1gc0f6g42begb631gcd988f1a49cd" version="1">All-Seing</content>
+  <content contentuid="hd1166479g319cg49e8gb2cag91afc975901c" version="1">Nothing escapes your gaze, not even the invisible.</content>
+  <content contentuid="h6bfb1146gfe30g4b53gb9f7g4293c22a1c43" version="1">Master of the Mind</content>
+  <content contentuid="hb56ba4e3g896fg453cga6fdg2f83ddbd873c" version="1">You mastered your own mind and those of others. You can detect their thoughts, pretend to be someone else, speak with animals, and so much more...</content>
   <content contentuid="h40909210ga076g4defgbe6dgd9513d6ba725" version="1">Elemental Affinity</content>
   <content contentuid="hedf83c55g3531g45f0g9599g94138a174c4d" version="1">You learn a number of spells that grant you control on all elements. Fire, Water, Lightning, Light and Darkness at the tip of your fingers.</content>
   <content contentuid="h236d1541g612cg4443g9611g279613747f26" version="1">Utility Spells</content>
@@ -17,4 +21,6 @@
   <content contentuid="h8046b634gef39g42a3g8658g7b8ad2121ec0" version="1">Create or destroy water with a thought</content>
   <content contentuid="hff7f1ca6gfbdfg47c6g8872g097c868b7eac" version="1">Utility Spells</content>
   <content contentuid="h671f843fg4a1bg4443gbe6fg565fd56feee8" version="1">Fly, be invisible, and so much more at the tip of your fingers.</content>
+  <content contentuid="h00c4d745g1c2bg4a3bga532g72c129f9e243" version="1">Toggle Detect Thoughts</content>
+  <content contentuid="h8a2459c6g221cg489ag8c4bgb14808599ce5" version="1">You can open your mind to the thoughs of others, or close it for your peace of mind.</content>
 </contentList>
