@@ -38,3 +38,12 @@ TODO:
 
 - [] Add detect thoughts, pet pal, etc.
 - [] Add a remove spell for flight, invisibility, etc.
+- [] Check illithid free cast for cheat mode
+- [] Check how to unlock illithid fly mode
+- [] Check teleportation in Basket Equipment's ring
+- [] Check daylight spell for light
+
+Illithid fly spells?
+Projectile_TAD_Levitate
+Projectile_Levitate_Mindflayer
+search for TadpoleSuperPower_Levitate
