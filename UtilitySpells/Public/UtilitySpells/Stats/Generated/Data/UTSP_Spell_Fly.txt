@@ -1,4 +1,4 @@
-new entry "UTSP_Projectile_Levitate"
+new entry "UTSP_Projectile_Fly"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_Fly"

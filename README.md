@@ -16,7 +16,7 @@ Spell list:
 - [] Remove surfaces: fire | ice | lightning | light | darkness
 - [x] Gust of Wind (unlimited)
 - [x] Vanish (unlimited Greater Invisibility)
-- [x] Fly (unlimited)
+- [x] Fly (replaces jump like illithid's fly)
 - [x] Speak with Dead (remove the limit on the number of questions you can ask)
 - [] Shapeshift (unlimited)
 - [] False Education (unlimited)
@@ -39,7 +39,6 @@ TODO:
 - [] Add detect thoughts, pet pal, etc.
 - [] Add a remove spell for flight, invisibility, etc.
 - [] Check illithid free cast for cheat mode
-- [] Check how to unlock illithid fly mode
 - [] Check teleportation in Basket Equipment's ring
 - [] Check daylight spell for light
 
