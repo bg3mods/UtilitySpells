@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contentList date="12/08/2023 13:30">
+  <content contentuid="hdb663084g2f21g436cg8468g13b25def6eb2" version="1">Text missing</content>
   <content contentuid="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1">Potion of Utility Spells</content>
   <content contentuid="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1">A special potion that grants utility spells as toggleable passives.</content>
   <content contentuid="h98d31668gb649g4946gb325g2f6ac8b1af8f" version="1">Invulnerable</content>
@@ -21,6 +22,86 @@
   <content contentuid="h8046b634gef39g42a3g8658g7b8ad2121ec0" version="1">Create or destroy water with a thought</content>
   <content contentuid="hff7f1ca6gfbdfg47c6g8872g097c868b7eac" version="1">Utility Spells</content>
   <content contentuid="h671f843fg4a1bg4443gbe6fg565fd56feee8" version="1">Fly, be invisible, and so much more at the tip of your fingers.</content>
+  <content contentuid="h6786c652g4cb8g4f7aga55egb2b675f95ed3" version="1">Free Cast</content>
+  <content contentuid="h6ea9cf45g00b7g4f7aga571geff9dfd0859c" version="1">You can now cast freely your spells  and actions, as long as you maintain your concentration.</content>
+  <content contentuid="h6169ce1fg1c4cg4329ga5acge8f71a61ff56" version="1">Toggles: Background Tags</content>
+  <content contentuid="hfce6a574ge9d1g47f4g8a2fg63d17959bf55" version="1">Toggle background tags, you can cumulate as many as you want</content>
+  <content contentuid="hf35e9459g715eg4e45ga0d6gd1b1b3e09061" version="1">Toggles: Class Tags</content>
+  <content contentuid="h7ddcbe92g4f46g4717g9b90g6d7d9392ab15" version="1">Toggle class tags, you can cumulate as many as you want</content>
+  <content contentuid="heec3d364gde0eg41eeg948bga4abc5b3f876" version="1">Toggles: Dialogue Tags</content>
+  <content contentuid="h4e2436f2g836cg40d8g83dag3e0aefe1cfa4" version="1">Toggle dialogue tags, you can cumulate as many as you want</content>
+  <content contentuid="he44ac58ag92ffg4d0cg9870g17f398fc8401" version="1">Toggles: Race Tags</content>
+  <content contentuid="h9d80a62cgca8dg4340gbe55ga127bfeaffa8" version="1">Toggle race tags. WARNING: The game might react strangely, or not at all. Use at your own risk</content>
+  <content contentuid="hafabcd16g9379g4220gb366gc0d23fc1df8d" version="1">Acolyte</content>
+  <content contentuid="hc74b487bgd7f6g477fgbf5cg5864b4e6b5e1" version="1">Toggle the acolyte background tag</content>
+  <content contentuid="hf99059dfg5fa8g4048g90f3gcd08c6f1531d" version="1">Toggle Comprehend Languages</content>
+  <content contentuid="h7357d1eege231g403eg8c70g4e4c714b62fd" version="1">You can now decide to understand all languages, or ignore them</content>
   <content contentuid="h00c4d745g1c2bg4a3bga532g72c129f9e243" version="1">Toggle Detect Thoughts</content>
   <content contentuid="h8a2459c6g221cg489ag8c4bgb14808599ce5" version="1">You can open your mind to the thoughs of others, or close it for your peace of mind.</content>
+  <content contentuid="hf9291387ge5a7g461ag8c4ag6529e9c1440a" version="1">Toggle Forbidden Knowledge</content>
+  <content contentuid="h3c3cd13bge925g4472g8ff6g3d6e836d7219" version="1">You can choose to open your mind to forbidden knowledge, or live in bliss ignorance</content>
+  <content contentuid="hed89b50cg7d55g4faegae81g1168dff77877" version="1">Toggle Pet Pal</content>
+  <content contentuid="h9fa1ee4fg411fg47d8g85abg9bfe1858d08e" version="1">You can decide to communicate wth animals, or close your mind to them</content>
+  <content contentuid="" version="1">Charlatan</content>
+  <content contentuid="" version="1">Toggle the charlatan background tag</content>
+  <content contentuid="" version="1">Criminal</content>
+  <content contentuid="" version="1">Toggle the criminal background tag</content>
+  <content contentuid="" version="1">Entertainer</content>
+  <content contentuid="" version="1">Toggle the entertainer background tag</content>
+  <content contentuid="" version="1">Folk Hero</content>
+  <content contentuid="" version="1">Toggle the folk hero background tag</content>
+  <content contentuid="" version="1">Guild Artisan</content>
+  <content contentuid="" version="1">Toggle the guild artisan background tag</content>
+  <content contentuid="" version="1">Hermit</content>
+  <content contentuid="" version="1">Toggle the hermit background tag</content>
+  <content contentuid="h59b14d07g7f8cg4f93g8904ga67772381fda" version="1">Noble</content>
+  <content contentuid="h7136c622g2043g49fegbdd7gf589a16b309b" version="1">Toggle the noble background tag</content>
+  <content contentuid="" version="1">Outlander</content>
+  <content contentuid="" version="1">Toggle the outlander background tag</content>
+  <content contentuid="" version="1">Sage</content>
+  <content contentuid="" version="1">Toggle the sage background tag</content>
+  <content contentuid="" version="1">Soldier</content>
+  <content contentuid="" version="1">Toggle the soldier background tag</content>
+  <content contentuid="" version="1">Urchin</content>
+  <content contentuid="" version="1">Toggle the urchin background tag</content>
+  <content contentuid="" version="1">Barbarian</content>
+  <content contentuid="" version="1">Toggle the barbarian class tag</content>
+  <content contentuid="" version="1">Bard</content>
+  <content contentuid="" version="1">Toggle the bard class tag</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="" version="1">Druid</content>
+  <content contentuid="" version="1">Toggle the druid class tag</content>
+  <content contentuid="" version="1">Fighter</content>
+  <content contentuid="" version="1">Toggle the fighter class tag</content>
+  <content contentuid="" version="1">Monk</content>
+  <content contentuid="" version="1">Toggle the barbarian class tag</content>
+  <content contentuid="" version="1">Barbarian</content>
+  <content contentuid="" version="1">Toggle the monk class tag</content>
+  <content contentuid="" version="1">Paladin</content>
+  <content contentuid="" version="1">Toggle the paladin class tag</content>
+  <content contentuid="" version="1">Paladin - Oathbreaker</content>
+  <content contentuid="" version="1">Toggle the oathbreak paladin class tag. WARNING: Please toggle the paladin tag as well!</content>
+  <content contentuid="" version="1">Ranger</content>
+  <content contentuid="" version="1">Toggle the ranger class tag</content>
+  <content contentuid="" version="1">Rogue</content>
+  <content contentuid="" version="1">Toggle the rogue class tag</content>
+  <content contentuid="" version="1">Sorcerer</content>
+  <content contentuid="" version="1">Toggle the sorcerer class tag</content>
+  <content contentuid="" version="1">Warlock</content>
+  <content contentuid="" version="1">Toggle the warlock class tag</content>
+  <content contentuid="" version="1">Wizard</content>
+  <content contentuid="" version="1">Toggle the wizard class tag</content>
 </contentList>

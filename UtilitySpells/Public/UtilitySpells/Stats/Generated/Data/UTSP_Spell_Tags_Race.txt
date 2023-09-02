@@ -1,0 +1,9 @@
+new entry "UTSP_Race_Tags_Container"
+type "SpellData"
+data "SpellType" "Shout"
+data "ContainerSpells" "UTSP_Shout_ToggleDetectThoughts;"
+data "Icon" "statIcons_MindMastery"
+data "DisplayName" "h6bfb1146gfe30g4b53gb9f7g4293c22a1c43;1"
+data "Description" "hb56ba4e3g896fg453cga6fdg2f83ddbd873c;1"
+data "SpellFlags" "IsLinkedSpellContainer"
+

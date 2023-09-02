@@ -60,8 +60,7 @@ data "Icon" "statIcons_MindMastery"
 data "StackId" "UTSP_STATUS_TAGS"
 data "StackType" "Ignore"
 data "StatusPropertyFlags" "DisablePortraitIndicator;ApplyToDead;IgnoreResting"
-data "Boosts" "UnlockSpell(UTSP_Tags_Container);"
-
+data "Boosts" "UnlockSpell(UTSP_Background_Tags_Container);UnlockSpell(UTSP_Dialogue_Tags_Container);"
 
 new entry "UTSP_STATUS_UTILITY_SPELLS"
 type "StatusData"
