@@ -1,4 +1,5 @@
-<contentList date="12/08/2023 13:30">
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
   <content contentuid="hdb663084g2f21g436cg8468g13b25def6eb2" version="1">Text missing</content>
   <content contentuid="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1">Potion of Utility Spells</content>
   <content contentuid="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1">A special potion that grants utility spells as toggleable passives.</content>
