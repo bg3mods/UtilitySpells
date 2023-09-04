@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <contentList date="12/08/2023 13:30">
   <content contentuid="hdb663084g2f21g436cg8468g13b25def6eb2" version="1">Text missing</content>
   <content contentuid="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1">Potion of Utility Spells</content>
@@ -42,66 +41,66 @@
   <content contentuid="h3c3cd13bge925g4472g8ff6g3d6e836d7219" version="1">You can choose to open your mind to forbidden knowledge, or live in bliss ignorance</content>
   <content contentuid="hed89b50cg7d55g4faegae81g1168dff77877" version="1">Toggle Pet Pal</content>
   <content contentuid="h9fa1ee4fg411fg47d8g85abg9bfe1858d08e" version="1">You can decide to communicate wth animals, or close your mind to them</content>
-  <content contentuid="" version="1">Charlatan</content>
-  <content contentuid="" version="1">Toggle the charlatan background tag</content>
-  <content contentuid="" version="1">Criminal</content>
-  <content contentuid="" version="1">Toggle the criminal background tag</content>
-  <content contentuid="" version="1">Entertainer</content>
-  <content contentuid="" version="1">Toggle the entertainer background tag</content>
-  <content contentuid="" version="1">Folk Hero</content>
-  <content contentuid="" version="1">Toggle the folk hero background tag</content>
-  <content contentuid="" version="1">Guild Artisan</content>
-  <content contentuid="" version="1">Toggle the guild artisan background tag</content>
-  <content contentuid="" version="1">Hermit</content>
-  <content contentuid="" version="1">Toggle the hermit background tag</content>
+  <content contentuid="h984f2a9fg9d02g47a1g92d4gf687a58891f0" version="1">Acolyte</content>
+  <content contentuid="hd3578d16gb969g46dfg8459gec6eb1ada544" version="1">Toggle the acolyte background tag</content>
+  <content contentuid="ha4a93316gfdf2g4206g9bd4g88d8d647696c" version="1">Charlatan</content>
+  <content contentuid="hdfab9b12g12a2g4e9bgb873g67c5d67301ca" version="1">Toggle the charlatan background tag</content>
+  <content contentuid="h102278d3g8f7ag40caga325g38eb0dcc3d79" version="1">Criminal</content>
+  <content contentuid="h86dd6c36gd13cg417cg8dbag9e54ec181b16" version="1">Toggle the criminal background tag</content>
+  <content contentuid="h4f5fbdaeg1747g4c2egab0cg226c12e8849e" version="1">Entertainer</content>
+  <content contentuid="h70136c58g2f30g44f4g8e2cg7c867b1b9be0" version="1">Toggle the entertainer background tag</content>
+  <content contentuid="hf613e4ddg04f0g48baga664ga1f8c2890782" version="1">Folk Hero</content>
+  <content contentuid="hee0dddecgc924g4410gb223gdab2defe6d2e" version="1">Toggle the folk hero background tag</content>
+  <content contentuid="h9cc8e143gb000g4b32gab42g27d065f3e2dd" version="1">Guild Artisan</content>
+  <content contentuid="h6d57f8efg912dg4c24gb302g4e109efb6a18" version="1">Toggle the guild artisan background tag</content>
+  <content contentuid="he93470c1g210bg4719gb2a5g84139a97feb4" version="1">Hermit</content>
+  <content contentuid="had5a3e77g29a1g4e7agad02gf1db6384c2fd" version="1">Toggle the hermit background tag</content>
   <content contentuid="h59b14d07g7f8cg4f93g8904ga67772381fda" version="1">Noble</content>
   <content contentuid="h7136c622g2043g49fegbdd7gf589a16b309b" version="1">Toggle the noble background tag</content>
-  <content contentuid="" version="1">Outlander</content>
-  <content contentuid="" version="1">Toggle the outlander background tag</content>
-  <content contentuid="" version="1">Sage</content>
-  <content contentuid="" version="1">Toggle the sage background tag</content>
-  <content contentuid="" version="1">Soldier</content>
-  <content contentuid="" version="1">Toggle the soldier background tag</content>
-  <content contentuid="" version="1">Urchin</content>
-  <content contentuid="" version="1">Toggle the urchin background tag</content>
-  <content contentuid="" version="1">Barbarian</content>
-  <content contentuid="" version="1">Toggle the barbarian class tag</content>
-  <content contentuid="" version="1">Bard</content>
-  <content contentuid="" version="1">Toggle the bard class tag</content>
-  <content contentuid="" version="1">Cleric of</content>
+  <content contentuid="had5a3e77g29a1g4e7agad02gf1db6384c2fd" version="1">Outlander</content>
+  <content contentuid="hffbcebabge9e5g4167g8319gedf82468e3e0" version="1">Toggle the outlander background tag</content>
+  <content contentuid="hd0cc85a4g09b0g43aega15cg1308423030c2" version="1">Sage</content>
+  <content contentuid="h28eed077g8cc4g4082g8449g21d5308865e3" version="1">Toggle the sage background tag</content>
+  <content contentuid="hb636ff6eg0692g4fddgb9c0g3babcd66151a" version="1">Soldier</content>
+  <content contentuid="h40e7246ag385eg4cccgbcd6gebab8cd5f54f" version="1">Toggle the soldier background tag</content>
+  <content contentuid="h180dd8e9gda79g4505g98b3g2da3e9da5068" version="1">Urchin</content>
+  <content contentuid="hb1730a11g39e3g4dffgbd8bg99d6ef513e39" version="1">Toggle the urchin background tag</content>
+  <content contentuid="h9f3160bfg4379g4f61g9203gd3b9ab42994e" version="1">Barbarian</content>
+  <content contentuid="hb7a8a58bgb6c4g413fgb736g6d8cf339d54c" version="1">Toggle the barbarian class tag</content>
+  <content contentuid="hb00fc91bg3930g49dcgb874g440650492635" version="1">Bard</content>
+  <content contentuid="h85f60605g0601g440ega369gba983fbdc137" version="1">Toggle the bard class tag</content>
+  <content contentuid="h5f747a85g6a97g45dag9a73g19d9365c5439" version="1">Cleric of</content>
+  <content contentuid="hfb27e00dgeb26g4f71g9245g020b2984a82e" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="h994ed7dfg5ed9g439ag8cb2ged1ecb3e35f3" version="1">Cleric of</content>
+  <content contentuid="h164434c0g9bfbg4345gab41g6d9596c03baa" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="h2a2caf4dg704cg4c1agb421ge0f4f1c4792e" version="1">Cleric of</content>
+  <content contentuid="h43268bc7g661bg48a5gafdegafc749fadb7f" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="h4c0f3d02g885eg4e4eg82afgceb6fb571ceb" version="1">Cleric of</content>
+  <content contentuid="hde890206g4e03g4921gb9d2g1c1ab9f6a585" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="h08174e13g2dabg414bga440g5eb834ca67ba" version="1">Cleric of</content>
+  <content contentuid="h8075ad83gce78g4910g9c60gea2bc264c6dc" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="h3c291bc5g72dfg43b0g9415gd85b6af21a11" version="1">Cleric of</content>
+  <content contentuid="h06fb3a4fg8439g4c9aga675g6e7e25430438" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
+  <content contentuid="hd3e5a445g1da3g466egacdegf8da74b14a14" version="1">Cleric of</content>
   <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Cleric of</content>
-  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Cleric of</content>
-  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Cleric of</content>
-  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Cleric of</content>
-  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Cleric of</content>
-  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Cleric of</content>
-  <content contentuid="" version="1">Toggle the cleric of  class tag. WARNING: Please toggle the cleric tag as well!</content>
-  <content contentuid="" version="1">Druid</content>
-  <content contentuid="" version="1">Toggle the druid class tag</content>
-  <content contentuid="" version="1">Fighter</content>
-  <content contentuid="" version="1">Toggle the fighter class tag</content>
-  <content contentuid="" version="1">Monk</content>
-  <content contentuid="" version="1">Toggle the barbarian class tag</content>
-  <content contentuid="" version="1">Barbarian</content>
-  <content contentuid="" version="1">Toggle the monk class tag</content>
-  <content contentuid="" version="1">Paladin</content>
-  <content contentuid="" version="1">Toggle the paladin class tag</content>
-  <content contentuid="" version="1">Paladin - Oathbreaker</content>
+  <content contentuid="ha5b57a97ga25cg46eeg98efg8f91e49b01a8" version="1">Druid</content>
+  <content contentuid="hbeea2facg32b5g461ag9590gc41f2c0ebd31" version="1">Toggle the druid class tag</content>
+  <content contentuid="h35cdf124g38d1g4ed3gbcc5gdeb325321404" version="1">Fighter</content>
+  <content contentuid="h08c6fdd7g0dc2g4593g93acgb6a5a432d341" version="1">Toggle the fighter class tag</content>
+  <content contentuid="he790c2a2g870bg4a3eg9c69g4d18d369504b" version="1">Monk</content>
+  <content contentuid="h599c4f67g8dc2g4454g8141g5afe8f7513aa" version="1">Toggle the monk class tag</content>
+  <content contentuid="h7d02da51gb42bg4ea9gb462gfb4d7b20d889" version="1">Paladin</content>
+  <content contentuid="h93a05921g3d7ag418fgbe07g2d5558c4f8c2" version="1">Toggle the paladin class tag</content>
+  <content contentuid="h644c3802gdd69g4959gaaccg2ec278959e9d" version="1">Paladin - Oathbreaker</content>
   <content contentuid="" version="1">Toggle the oathbreak paladin class tag. WARNING: Please toggle the paladin tag as well!</content>
-  <content contentuid="" version="1">Ranger</content>
-  <content contentuid="" version="1">Toggle the ranger class tag</content>
-  <content contentuid="" version="1">Rogue</content>
-  <content contentuid="" version="1">Toggle the rogue class tag</content>
-  <content contentuid="" version="1">Sorcerer</content>
-  <content contentuid="" version="1">Toggle the sorcerer class tag</content>
-  <content contentuid="" version="1">Warlock</content>
-  <content contentuid="" version="1">Toggle the warlock class tag</content>
-  <content contentuid="" version="1">Wizard</content>
-  <content contentuid="" version="1">Toggle the wizard class tag</content>
+  <content contentuid="h644c3802gdd69g4959gaaccg2ec278959e9d" version="1">Ranger</content>
+  <content contentuid="he9a5b5e0gb1b8g42d3gb5cfgeeebc4c91e98" version="1">Toggle the ranger class tag</content>
+  <content contentuid="hd69726c5g7a74g43e4g8384ga6e9aadf4994" version="1">Rogue</content>
+  <content contentuid="h8075ba08ga2e4g40c1gbe99g9da76d980b72" version="1">Toggle the rogue class tag</content>
+  <content contentuid="h48fa27b8g9937g47e9gbae9gbd305c55643f" version="1">Sorcerer</content>
+  <content contentuid="he7369305ge7b8g4912g95d4g29e9bbbfc032" version="1">Toggle the sorcerer class tag</content>
+  <content contentuid="h51ae3defg3000g467dg814bg9708c049417b" version="1">Warlock</content>
+  <content contentuid="h14578864g4a2dg481cga2e6g92ef94fe2ee2" version="1">Toggle the warlock class tag</content>
+  <content contentuid="h2c145a25gc161g40e9g9b69g5b8eab8b64c0" version="1">Wizard</content>
+  <content contentuid="h39b66fd6gc5d5g412fgb7a4g233c41a08e00" version="1">Toggle the wizard class tag</content>
 </contentList>

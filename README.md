@@ -23,11 +23,13 @@ Spell list:
 
 Passive list:
 
-- [] See invisibility (check if we can make it a passive, otherwise spell)
+- [x] See invisibility (check if we can make it a passive, otherwise spell)
 - [x] Immunity : fire | ice | lightning | light | darkness
 - [x] Immunity : status difficult terrain | prone | blind | frightened | ...
 - [] Feats: heavy armour | medium armour | weapons proficiencies
-- [] Tags: dialogue detect thoughts | pet pal | tiny
+- [x] Tags: dialogue tags -> detect thoughts | pet pal | tiny
+- [x] Tags: background tags
+- [] Tags: class tags
 
 Optionnal:
 
@@ -37,7 +39,7 @@ Optionnal:
 TODO:
 
 - [] Add detect thoughts, pet pal, etc.
-- [] Add a remove spell for flight, invisibility, etc.
+- [x] Add a remove spell for flight, invisibility, etc. <- No need since there is a cancel button underneath the hotbar
 - [] Check illithid free cast for cheat mode
 - [] Check teleportation in Basket Equipment's ring
 - [] Check daylight spell for light

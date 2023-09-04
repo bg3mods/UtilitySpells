@@ -1,4 +1,4 @@
-new entry "UTSP_Freecast"
+new entry "UTSP_STATUS_FREECAST"
 type "PassiveData"
 data "DisplayName" "h6786c652g4cb8g4f7aga55egb2b675f95ed3;1"
 data "Description" "h6ea9cf45g00b7g4f7aga571geff9dfd0859c;1"
