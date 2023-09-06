@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+  <!-- Miscellaneous  -->
   <content contentuid="hdb663084g2f21g436cg8468g13b25def6eb2" version="1">Text missing</content>
+  <!-- Equipment [Potion] -->
   <content contentuid="h0a8e10edg9f28g4aecg9450g0517c3fa009f" version="1">Potion of Utility Spells</content>
   <content contentuid="h28cbfb22g6bc6g46b4gb21fg2cd1f4d49e14" version="1">A special potion that grants utility spells as toggleable passives.</content>
+  <!-- Passive Effects -->
   <content contentuid="h98d31668gb649g4946gb325g2f6ac8b1af8f" version="1">Invulnerable</content>
   <content contentuid="h75fa5df5g7165g48cdg8a48g8bbd0f20d21f" version="1">The tumultuous elemental forces never threaten you. You are invulnerable.</content>
   <content contentuid="h671c14b1gc0f6g42begb631gcd988f1a49cd" version="1">All-Seing</content>
@@ -13,6 +16,7 @@
   <content contentuid="hedf83c55g3531g45f0g9599g94138a174c4d" version="1">You learn a number of spells that grant you control on all elements. Fire, Water, Lightning, Light and Darkness at the tip of your fingers.</content>
   <content contentuid="h236d1541g612cg4443g9611g279613747f26" version="1">Utility Spells</content>
   <content contentuid="h505828a8gf47cg40f0g8803g2bfa701118ce" version="1">You learn many spells that will aid you in your journey. Flying, being invisible, and so much more at the tip of your fingers.</content>
+  <!-- Utility Spells -->
   <content contentuid="hab915c71g9f01g41cag92a5g19d5b76b4b61" version="1">Vanish</content>
   <content contentuid="h2af208dage2d8g4732ga29cg901cd89b074e" version="1">Master of light and darkness</content>
   <content contentuid="h2531b2aag19f9g4e0cga467g59a30e1c53a6" version="1">Conjure either light or darkness</content>
@@ -24,48 +28,60 @@
   <content contentuid="h671f843fg4a1bg4443gbe6fg565fd56feee8" version="1">Fly, be invisible, and so much more at the tip of your fingers.</content>
   <content contentuid="h6786c652g4cb8g4f7aga55egb2b675f95ed3" version="1">Free Cast</content>
   <content contentuid="h6ea9cf45g00b7g4f7aga571geff9dfd0859c" version="1">You can now cast freely your spells  and actions, as long as you maintain your concentration.</content>
-  <content contentuid="h6169ce1fg1c4cg4329ga5acge8f71a61ff56" version="1">Toggles: Background Tags</content>
-  <content contentuid="hfce6a574ge9d1g47f4g8a2fg63d17959bf55" version="1">Toggle background tags, you can cumulate as many as you want</content>
-  <content contentuid="hf35e9459g715eg4e45ga0d6gd1b1b3e09061" version="1">Toggles: Class Tags</content>
-  <content contentuid="h7ddcbe92g4f46g4717g9b90g6d7d9392ab15" version="1">Toggle class tags, you can cumulate as many as you want</content>
-  <content contentuid="heec3d364gde0eg41eeg948bga4abc5b3f876" version="1">Toggles: Dialogue Tags</content>
-  <content contentuid="h4e2436f2g836cg40d8g83dag3e0aefe1cfa4" version="1">Toggle dialogue tags, you can cumulate as many as you want</content>
-  <content contentuid="he44ac58ag92ffg4d0cg9870g17f398fc8401" version="1">Toggles: Race Tags</content>
-  <content contentuid="h9d80a62cgca8dg4340gbe55ga127bfeaffa8" version="1">Toggle race tags. WARNING: The game might react strangely, or not at all. Use at your own risk</content>
-  <content contentuid="hafabcd16g9379g4220gb366gc0d23fc1df8d" version="1">Acolyte</content>
-  <content contentuid="hc74b487bgd7f6g477fgbf5cg5864b4e6b5e1" version="1">Toggle the acolyte background tag</content>
-  <content contentuid="hf99059dfg5fa8g4048g90f3gcd08c6f1531d" version="1">Toggle Comprehend Languages</content>
-  <content contentuid="h7357d1eege231g403eg8c70g4e4c714b62fd" version="1">You can now decide to understand all languages, or ignore them</content>
-  <content contentuid="h00c4d745g1c2bg4a3bga532g72c129f9e243" version="1">Toggle Detect Thoughts</content>
-  <content contentuid="h8a2459c6g221cg489ag8c4bgb14808599ce5" version="1">You can open your mind to the thoughs of others, or close it for your peace of mind.</content>
-  <content contentuid="hf9291387ge5a7g461ag8c4ag6529e9c1440a" version="1">Toggle Forbidden Knowledge</content>
-  <content contentuid="h3c3cd13bge925g4472g8ff6g3d6e836d7219" version="1">You can choose to open your mind to forbidden knowledge, or live in bliss ignorance</content>
-  <content contentuid="hed89b50cg7d55g4faegae81g1168dff77877" version="1">Toggle Pet Pal</content>
-  <content contentuid="h9fa1ee4fg411fg47d8g85abg9bfe1858d08e" version="1">You can decide to communicate wth animals, or close your mind to them</content>
+  <!-- Tag Spells [Background] -->
+  <content contentuid="hc6963999g34f6g45aag922agb3fb094600a7" version="1">All</content>
+  <content contentuid="h56ed33e2g6e5fg49b6ga7b4g907aa709ae85" version="1">Toggle all background tags at the same time.</content>
+  <content contentuid="h37716abbg147ag4deag8d20gbcc2261e0efc" version="1">You now possess all backgrounds.</content>
+  <content contentuid="h7b1ab6d5g5901g4d4dgb35fg8082a2364bce" version="1">You have no background anymore.</content>
   <content contentuid="h984f2a9fg9d02g47a1g92d4gf687a58891f0" version="1">Acolyte</content>
   <content contentuid="hd3578d16gb969g46dfg8459gec6eb1ada544" version="1">Toggle the acolyte background tag</content>
+  <content contentuid="hb23cba0eg5e3dg4e76g8a33g2a95fc1d4142" version="1">You are now an acolyte.</content>
+  <content contentuid="hf686456fg38e1g4f92g8b99gb8ac48da43b4" version="1">You are an acolyte no more.</content>
   <content contentuid="ha4a93316gfdf2g4206g9bd4g88d8d647696c" version="1">Charlatan</content>
   <content contentuid="hdfab9b12g12a2g4e9bgb873g67c5d67301ca" version="1">Toggle the charlatan background tag</content>
+  <content contentuid="h92f2ee81g2222g4d51g96e7g2c0a8a71a2ad" version="1">You are now a charlatan.</content>
+  <content contentuid="h89961f14gcdddg4b04g9baag659229dcf16f" version="1">You are a charlatan no more.</content>
   <content contentuid="h102278d3g8f7ag40caga325g38eb0dcc3d79" version="1">Criminal</content>
   <content contentuid="h86dd6c36gd13cg417cg8dbag9e54ec181b16" version="1">Toggle the criminal background tag</content>
+  <content contentuid="h9f2ef031g783ag41d4g98b2g132aa1a09c48" version="1">You are now a criminal.</content>
+  <content contentuid="ha4fdc61ag8c50g4815g8126g35f426c24511" version="1">You are a criminal no more.</content>
   <content contentuid="h4f5fbdaeg1747g4c2egab0cg226c12e8849e" version="1">Entertainer</content>
   <content contentuid="h70136c58g2f30g44f4g8e2cg7c867b1b9be0" version="1">Toggle the entertainer background tag</content>
+  <content contentuid="hda858807g2534g4300ga280ga0e957639cb2" version="1">You are now an entertainer.</content>
+  <content contentuid="hefabfdbbg0310g4c6fg8e5cgf970b6a1b467" version="1">You are an entertainer no more.</content>
   <content contentuid="hf613e4ddg04f0g48baga664ga1f8c2890782" version="1">Folk Hero</content>
   <content contentuid="hee0dddecgc924g4410gb223gdab2defe6d2e" version="1">Toggle the folk hero background tag</content>
+  <content contentuid="h19ca8f9bg6ba0g422egaa8dgdf00a750d627" version="1">You are now a folk hero.</content>
+  <content contentuid="he66df11eg37ecg45f3ga45dg5a91837b974d" version="1">You are a folk hero no more.</content>
   <content contentuid="h9cc8e143gb000g4b32gab42g27d065f3e2dd" version="1">Guild Artisan</content>
   <content contentuid="h6d57f8efg912dg4c24gb302g4e109efb6a18" version="1">Toggle the guild artisan background tag</content>
+  <content contentuid="h7d01cbb6g69acg43e6gb9a0g24f3622b2499" version="1">You are now a guild artisan.</content>
+  <content contentuid="hcd8c18ebg5e3ag4061g9947ga7a063e78854" version="1">You are a guild artisan no more.</content>
   <content contentuid="he93470c1g210bg4719gb2a5g84139a97feb4" version="1">Hermit</content>
   <content contentuid="had5a3e77g29a1g4e7agad02gf1db6384c2fd" version="1">Toggle the hermit background tag</content>
+  <content contentuid="h37c79981gab32g4248gbfa5g9b48dc7ec138" version="1">You are now a hermit.</content>
+  <content contentuid="h3a6907cdg31c4g4031ga573g70fd18582fb7" version="1">You are a hermit no more.</content>
   <content contentuid="h59b14d07g7f8cg4f93g8904ga67772381fda" version="1">Noble</content>
   <content contentuid="h7136c622g2043g49fegbdd7gf589a16b309b" version="1">Toggle the noble background tag</content>
+  <content contentuid="h01651f59g3f40g409bgaf76g342dcd7abb57" version="1">You are now a noble.</content>
+  <content contentuid="hc04f4512g3cb5g4c5fga057g8f8bb00bb96b" version="1">You are a noble no more.</content>
   <content contentuid="had5a3e77g29a1g4e7agad02gf1db6384c2fd" version="1">Outlander</content>
   <content contentuid="hffbcebabge9e5g4167g8319gedf82468e3e0" version="1">Toggle the outlander background tag</content>
+  <content contentuid="h9af4abb5g108ag4177ga3e6g59388648ce9c" version="1">You are now an outlander.</content>
+  <content contentuid="h725d7a08gb3e2g458dga9a1g9bc23c993fc5" version="1">You are an outlander no more.</content>
   <content contentuid="hd0cc85a4g09b0g43aega15cg1308423030c2" version="1">Sage</content>
   <content contentuid="h28eed077g8cc4g4082g8449g21d5308865e3" version="1">Toggle the sage background tag</content>
+  <content contentuid="he76bc758gbe51g4a58g8973gf4602b9197c8" version="1">You are now a sage.</content>
+  <content contentuid="h2cc72637g2e89g4ab5gaa58g66b92273a9c3" version="1">You are a sage no more.</content>
   <content contentuid="hb636ff6eg0692g4fddgb9c0g3babcd66151a" version="1">Soldier</content>
   <content contentuid="h40e7246ag385eg4cccgbcd6gebab8cd5f54f" version="1">Toggle the soldier background tag</content>
+  <content contentuid="had3dcb27g2ee0g45b1g8ebegb927d439b8ab" version="1">You are now a soldier.</content>
+  <content contentuid="h8afd9a14g2d7eg4bf9ga636g2d8f6b3c026e" version="1">You are a soldier no more.</content>
   <content contentuid="h180dd8e9gda79g4505g98b3g2da3e9da5068" version="1">Urchin</content>
   <content contentuid="hb1730a11g39e3g4dffgbd8bg99d6ef513e39" version="1">Toggle the urchin background tag</content>
+  <content contentuid="h76259e65g467dg48f6g996cg8694808cd7b5" version="1">You are now an urchin.</content>
+  <content contentuid="h9207eee4g2b5cg49a8ga220g1a678f0f2022" version="1">You are an urchin no more.</content>
+  <!-- Tag Spells [Class] -->
   <content contentuid="h9f3160bfg4379g4f61g9203gd3b9ab42994e" version="1">Barbarian</content>
   <content contentuid="hb7a8a58bgb6c4g413fgb736g6d8cf339d54c" version="1">Toggle the barbarian class tag</content>
   <content contentuid="hb00fc91bg3930g49dcgb874g440650492635" version="1">Bard</content>
@@ -104,4 +120,22 @@
   <content contentuid="h14578864g4a2dg481cga2e6g92ef94fe2ee2" version="1">Toggle the warlock class tag</content>
   <content contentuid="h2c145a25gc161g40e9g9b69g5b8eab8b64c0" version="1">Wizard</content>
   <content contentuid="h39b66fd6gc5d5g412fgb7a4g233c41a08e00" version="1">Toggle the wizard class tag</content>
+  <!-- Tag Spells [Dialogue] -->
+  <content contentuid="hf99059dfg5fa8g4048g90f3gcd08c6f1531d" version="1">Toggle Comprehend Languages</content>
+  <content contentuid="h7357d1eege231g403eg8c70g4e4c714b62fd" version="1">You can now decide to understand all languages, or ignore them</content>
+  <content contentuid="h00c4d745g1c2bg4a3bga532g72c129f9e243" version="1">Toggle Detect Thoughts</content>
+  <content contentuid="h8a2459c6g221cg489ag8c4bgb14808599ce5" version="1">You can open your mind to the thoughs of others, or close it for your peace of mind.</content>
+  <content contentuid="hf9291387ge5a7g461ag8c4ag6529e9c1440a" version="1">Toggle Forbidden Knowledge</content>
+  <content contentuid="h3c3cd13bge925g4472g8ff6g3d6e836d7219" version="1">You can choose to open your mind to forbidden knowledge, or live in bliss ignorance</content>
+  <content contentuid="hed89b50cg7d55g4faegae81g1168dff77877" version="1">Toggle Pet Pal</content>
+  <content contentuid="h9fa1ee4fg411fg47d8g85abg9bfe1858d08e" version="1">You can decide to communicate wth animals, or close your mind to them</content>
+  <!-- Tag Spells [Toggle] -->
+  <content contentuid="h6169ce1fg1c4cg4329ga5acge8f71a61ff56" version="1">Toggles: Background Tags</content>
+  <content contentuid="hfce6a574ge9d1g47f4g8a2fg63d17959bf55" version="1">Toggle background tags, you can cumulate as many as you want</content>
+  <content contentuid="hf35e9459g715eg4e45ga0d6gd1b1b3e09061" version="1">Toggles: Class Tags</content>
+  <content contentuid="h7ddcbe92g4f46g4717g9b90g6d7d9392ab15" version="1">Toggle class tags, you can cumulate as many as you want</content>
+  <content contentuid="heec3d364gde0eg41eeg948bga4abc5b3f876" version="1">Toggles: Dialogue Tags</content>
+  <content contentuid="h4e2436f2g836cg40d8g83dag3e0aefe1cfa4" version="1">Toggle dialogue tags, you can cumulate as many as you want</content>
+  <content contentuid="he44ac58ag92ffg4d0cg9870g17f398fc8401" version="1">Toggles: Race Tags</content>
+  <content contentuid="h9d80a62cgca8dg4340gbe55ga127bfeaffa8" version="1">Toggle race tags. WARNING: The game might react strangely, or not at all. Use at your own risk</content>
 </contentList>

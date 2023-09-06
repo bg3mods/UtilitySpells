@@ -12,7 +12,6 @@ data "AuraFlags" "CanAffectInvisibleItems;AIIgnoreOnSelf"
 data "OnApplyFunctors" ""
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "d8452a11-7c66-45fb-8ccb-64e2fa56ada5"
-data "Boosts" "DarkvisionRangeMin(24);StatusImmunity(BLINDED_DARKNESS);StatusImmunity(SG_Blinded);IgnoreSurfaceCover(SurfaceDarknessCloud);IgnoreSurfaceCover(SurfaceFogCloud)"
 
 new entry "UTSP_SEE_INVISIBILITY_SEEN"
 type "StatusData"

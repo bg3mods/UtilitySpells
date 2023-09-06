@@ -1,7 +1,7 @@
 new entry "UTSP_Shout_Haste"
 type "SpellData"
 data "SpellType" "Shout"
-data "Level" "1"
+data "Level" "6"
 data "SpellSchool" "Transmutation"
 data "SpellProperties" "ApplyStatus(UTSP_HASTE,100,-1)"
 data "AreaRadius" "12"
