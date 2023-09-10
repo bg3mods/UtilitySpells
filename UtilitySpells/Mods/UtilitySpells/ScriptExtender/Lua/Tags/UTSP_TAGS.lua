@@ -1,5 +1,5 @@
+-- TODO: implement namespaces withthe help of this: https://stackoverflow.com/a/14962675
 TAGS = {
-    -- BACKGROUNDS
     BACKGROUNDS = {
         ACOLYTE = { GUID = "906d1961-e9c6-4170-b775-62797a0efe1c", NAME = "" },
         CHARLATAN = { GUID = "07925e5b-af3d-4743-a565-b9fee04c24ac", NAME = "" },
@@ -14,7 +14,6 @@ TAGS = {
         SOLDIER = { GUID = "d135f265-c2e1-4077-a836-b548ee871681", NAME = "" },
         URCHIN = { GUID = "2faee476-d77b-42a7-a4c6-2b9ac934673c", NAME = "" },
     },
-    -- CLASSES
     CLASSES = {
         BARBARIAN = { GUID = "02913f9a-f696-40cf-acdf-32032afab32c", NAME = "" },
         BARBARIAN_BERSERKER = { GUID = "ac3449f7-c09b-4bc0-8634-fcff97d49279", NAME = "" },
@@ -106,7 +105,6 @@ TAGS = {
         PALADIN_VLAAKITH = { GUID = "e64a45b2-ba13-4097-a7f9-05f6c8bee312", NAME = "" },
         PALADIN_YONDALLA = { GUID = "c771a524-58fe-43e4-b8f0-b976e1b92d9f", NAME = "" },
     },
-    -- DIALOGUE
     DIALOGUE = {
         COMPREHENDLANGUAGES = { GUID = "1d6e36a6-d757-449b-8040-2af3f1a99c3a", NAME = "" },
         DETECTTHOUGHTS = { GUID = "7e0395f8-aa53-4549-9af3-e2d203d678ee", NAME = "" },
@@ -114,7 +112,6 @@ TAGS = {
         PETPAL = { GUID = "dc860a81-f3c2-4c1a-ab90-e7583324845c", NAME = "" },
         SHORT = { GUID = "50e7beca-4e90-43cd-b7c5-c235e236077f", NAME = "" },
     },
-    -- RACES
     RACES = {
         DRAGONBORN = { GUID = "", NAME = "" },
         DROW = { GUID = "", NAME = "" },

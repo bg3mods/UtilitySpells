@@ -3,29 +3,29 @@ Ext.Osiris.RegisterListener("CastSpell", 5, "after", function(char, spell, nil1,
     local character = GetHostCharacter();
     local tagTable = {
         -- Backgrounds
-        ["UTSP_Shout_ToggleBackground_Acolyte"] = { tag_guids = { TAGS.BACKGROUND.ACOLYTE.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Acolyte"] = { tag_guids = { TAGS.BACKGROUNDS.ACOLYTE.GUID }, tag_notification =
         "acolyte background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Charlatan"] = { tag_guids = { TAGS.BACKGROUND.CHARLATAN.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Charlatan"] = { tag_guids = { TAGS.BACKGROUNDS.CHARLATAN.GUID }, tag_notification =
         "charlatan background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Criminal"] = { tag_guids = { TAGS.BACKGROUND.CRIMINAL.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Criminal"] = { tag_guids = { TAGS.BACKGROUNDS.CRIMINAL.GUID }, tag_notification =
         "criminal background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Entertainer"] = { tag_guids = { TAGS.BACKGROUND.ENTERTAINER.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Entertainer"] = { tag_guids = { TAGS.BACKGROUNDS.ENTERTAINER.GUID }, tag_notification =
         "entertainer background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_FolkHero"] = { tag_guids = { TAGS.BACKGROUND.FOLK_HERO.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_FolkHero"] = { tag_guids = { TAGS.BACKGROUNDS.FOLK_HERO.GUID }, tag_notification =
         "folk hero background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_GuildArtisan"] = { tag_guids = { TAGS.BACKGROUND.GUILD_ARTISAN.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_GuildArtisan"] = { tag_guids = { TAGS.BACKGROUNDS.GUILD_ARTISAN.GUID }, tag_notification =
         "guild artisan background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Hermit"] = { tag_guids = { TAGS.BACKGROUND.HERMIT.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Hermit"] = { tag_guids = { TAGS.BACKGROUNDS.HERMIT.GUID }, tag_notification =
         "hermit background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Noble"] = { tag_guids = { TAGS.BACKGROUND.NOBLE.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Noble"] = { tag_guids = { TAGS.BACKGROUNDS.NOBLE.GUID }, tag_notification =
         "noble background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Outlander"] = { tag_guids = { TAGS.BACKGROUND.OUTLANDER.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Outlander"] = { tag_guids = { TAGS.BACKGROUNDS.OUTLANDER.GUID }, tag_notification =
         "outlander background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Sage"] = { tag_guids = { TAGS.BACKGROUND.SAGE.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Sage"] = { tag_guids = { TAGS.BACKGROUNDS.SAGE.GUID }, tag_notification =
         "sage background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Soldier"] = { tag_guids = { TAGS.BACKGROUND.SOLDIER.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Soldier"] = { tag_guids = { TAGS.BACKGROUNDS.SOLDIER.GUID }, tag_notification =
         "soldier background tag", callback = UTSP_ToggleTags },
-        ["UTSP_Shout_ToggleBackground_Urchin"] = { tag_guids = { TAGS.BACKGROUND.URCHIN.GUID }, tag_notification =
+        ["UTSP_Shout_ToggleBackground_Urchin"] = { tag_guids = { TAGS.BACKGROUNDS.URCHIN.GUID }, tag_notification =
         "urchin background tag", callback = UTSP_ToggleTags },
         -- Classes
         ["UTSP_Shout_ToggleClass_Barbarian"] = { tag_guids = { TAGS.CLASSES.BARBARIAN.GUID,
