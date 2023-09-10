@@ -1,5 +1,6 @@
 {
-    "[xml]": {
-        "editor.formatOnSave": false
-    }
+  "[xml]": {
+    "editor.formatOnSave": false
+  },
+  "Lua.diagnostics.globals": ["GetHostCharacter", "Ext", "Osi"]
 }
