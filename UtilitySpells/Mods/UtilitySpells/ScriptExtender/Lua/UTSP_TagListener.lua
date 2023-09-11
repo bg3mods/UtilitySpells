@@ -1,5 +1,10 @@
 -- Listen to spell casting. If the spell's name is in the table, call the corresponding callback function
-Ext.Osiris.RegisterListener("CastSpell", 5, "after", function(char, spell, nil1, nil2, nil3)
+---@param char any Unknown
+---@param spell string Name of the spell that was casted. Found in the corresponding `Public/{Mod}/Stats/Generated/Data` txt file 
+---@param nil1 nil Unused
+---@param nil2 nil Unused
+---@param nil3 nil Unused
+return function(char, spell, nil1, nil2, nil3)
     local character = GetHostCharacter();
     local tagTable = {
         -- Backgrounds
