@@ -3,7 +3,7 @@ if ($null -eq (Get-Command "divine.exe" -ErrorAction SilentlyContinue)) {
     Exit
 }
 
-$modPath = "C:/Dev/Baldur's Gate 3/Mods/UtilitySpells"
+$modPath = "C:/Dev/Baldur's Gate 3/Mods"
 $modName = "UtilitySpells"
 
 if ($PSBoundParameters.ContainsKey("p1")) {

@@ -1,7 +1,7 @@
 new entry "UTSP_Target_Vanish"
 type "SpellData"
 data "SpellType" "Target"
-data "Level" "1"
+data "Level" "6"
 data "SpellSchool" "Illusion"
 data "SpellProperties" "ApplyStatus(UTSP_VANISH,100,-1)"
 data "TargetRadius" "9"
